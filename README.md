@@ -1,4 +1,4 @@
-It is forked from [LearnWithHasinHayder/DataScrambler:master](https://github.com/LearnWithHasinHayder/DataScrambler).
+It is forked from [LearnWithHasinHayder/DataScrambler](https://github.com/LearnWithHasinHayder/DataScrambler).
 
 1. It shows how to achieve the same objective using PHP only or JavaScript only or both.
 
